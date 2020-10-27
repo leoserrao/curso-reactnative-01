@@ -1,9 +1,8 @@
-export default() => {
-    return (
+import React from 'react';
+
+export default() => 
         <div>
-            <h2>Título 4</h2>
+            <h2>Título 5</h2>
             <p>Parágrafo</p>
         </div>
-    )
-}
 
