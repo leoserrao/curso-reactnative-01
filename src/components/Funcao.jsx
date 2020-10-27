@@ -1,7 +1,7 @@
-export default function(){
+export default() => {
     return (
         <div>
-            <h2>Título 3</h2>
+            <h2>Título 4</h2>
             <p>Parágrafo</p>
         </div>
     )
