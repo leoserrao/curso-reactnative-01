@@ -2,7 +2,7 @@ import React from 'react';
 
 export default() => 
         <div>
-            <h2>Título 5</h2>
-            <p>Parágrafo</p>
+            <h2>Curso de React Native</h2>
+            <p>Introdução ao React</p>
         </div>
 
