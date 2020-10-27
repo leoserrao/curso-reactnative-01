@@ -1,7 +1,7 @@
 import React from 'react';
 
-export default() => 
+export default props => 
         <div>
-            <h2>Léo Serrão Barbosa</h2>
-            <p>Desenvolvedor Web</p>
+            <h2>{props.nome}</h2>
+            <p>{props.sobrenome}</p>
         </div>
